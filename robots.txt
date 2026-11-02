@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sharvan10.github.io/industry-landing-pages/sitemap.xml
